@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Game Tutorial, using Node, React\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[,\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cand SQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "Node",
+    "SQL"
+  ],
+  "author": "Mark Polichette",
+  "license": "ISC"
+}
