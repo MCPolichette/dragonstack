@@ -1,0 +1,40 @@
+[
+    {
+        "type": "backgroundColor",
+        "vaules": [
+            "black",
+            "blue",
+            "green",
+            "red",
+            "white",
+            "gray"
+        ]
+    },
+    {
+        "type": "build",
+        "vaules": [
+            "slender",
+            "stocky",
+            "sporty",
+            "skinny"
+        ]
+    },
+    {
+        "type": "pattern",
+        "vaules": [
+            "plain",
+            "striped",
+            "spotted",
+            "patchy"
+        ]
+    },
+    {
+        "type": "size",
+        "vaules": [
+            "small",
+            "medium",
+            "large",
+            "enormous"
+        ]
+    }
+]
