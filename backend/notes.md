@@ -1,4 +1,4 @@
-A place for notes while developing:
+# A place for notes while developing:
 
 
 #An option for changing the styles / colors of stripes, and spots.

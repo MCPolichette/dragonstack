@@ -1,7 +1,7 @@
 [
     {
         "type": "backgroundColor",
-        "vaules": [
+        "values": [
             "black",
             "blue",
             "green",
@@ -12,7 +12,7 @@
     },
     {
         "type": "build",
-        "vaules": [
+        "values": [
             "slender",
             "stocky",
             "sporty",
@@ -21,7 +21,7 @@
     },
     {
         "type": "pattern",
-        "vaules": [
+        "values": [
             "plain",
             "striped",
             "spotted",
@@ -30,7 +30,7 @@
     },
     {
         "type": "size",
-        "vaules": [
+        "values": [
             "small",
             "medium",
             "large",
