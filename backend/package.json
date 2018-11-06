@@ -4,8 +4,8 @@
   "description": "Game Tutorial, using Node, React\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[,\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cand SQL",
   "main": "index.js",
   "scripts": {
-    "start": "node .",
-    "dev": "nodemon ."
+    "start": "node ./bin/server",
+    "dev": "nodemon ./bin/server"
   },
   "keywords": [
     "React",

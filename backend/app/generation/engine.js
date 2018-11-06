@@ -1,4 +1,4 @@
-Generation = require("./generation");
+Generation = require(".");
 // Create a Generation Engine. Do so with a class called GenerationEngine. 
 // The engine will need to create a new generation object when the previous 
 // one has expired.
