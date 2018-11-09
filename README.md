@@ -14,6 +14,9 @@ After finishing a fullstack development course, I found it would be a good exers
 ## Changes made from the course
 * bulleted text, explaining differences and choices
 
-## Conclusions
+## Futer of this build?
+* Gotta finish it first
+
+## Conclusions / What Did I learn?
 * More of these will exist when app is completed
 * 
