@@ -1,14 +1,5 @@
-Generation = require(".");
-// Create a Generation Engine. Do so with a class called GenerationEngine. 
-// The engine will need to create a new generation object when the previous 
-// one has expired.
-
-// Hints:
-// Keep track of the current generation using `this.generation` in the class.
-// A `newGeneration` method could come in handy. 
-//         This would make a generation object, setting it to `this.generation`.
-// Consider using `setTimeout` to schedule calls to `newGeneration` in a timely manner.
-// Recursion may come in handy (be careful to avoid infinite loops).
+const Generation = require("./index");
+const GenerationTable = require("./table");
 
 class GenerationEngine {
     constructor() {
@@ -24,6 +15,8 @@ class GenerationEngine {
     }
     buildNewGeneration() {
         this.generation = new Generation();
+
+        GenerationTable.storeGeneration(this.generation);
 
         console.log('new generation', this.generation)
 

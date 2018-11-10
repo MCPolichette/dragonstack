@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start": "node ./bin/server",
-    "dev": "nodemon ./bin/server"
+    "dev": "nodemon ./bin/server",
+    "configure-dev": "npm runn configure && npm run dev",
+    "configure": "./bin/configure_db"
   },
   "keywords": [
     "React",
@@ -17,6 +19,7 @@
   "dependencies": {
     "express": "^4.16.3",
     "nodemon": "^1.17.5",
+    "pg": "^7.4.3",
     "save-dev": "^2.0.0"
   }
 }
