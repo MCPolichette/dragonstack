@@ -17,9 +17,13 @@
   "author": "Mark Polichette",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.3",
+    "method-override": "^3.0.0",
+    "mysql": "^2.16.0",
     "nodemon": "^1.17.5",
     "pg": "^7.4.3",
+    "save": "^2.3.2",
     "save-dev": "^2.0.0"
   }
 }
